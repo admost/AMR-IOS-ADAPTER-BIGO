@@ -26,5 +26,5 @@ Pod::Spec.new do |s|
     'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64 arm64'
   }
   s.dependency 'AMRSDK', '~> 1.5.38'
-  s.dependency 'BigoAds', '4.0.2'
+  s.dependency 'BigoADS', '4.0.2'
 end
