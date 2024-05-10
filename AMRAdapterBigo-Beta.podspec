@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterBigo-Beta'
-  s.version          = '4.0.4.1'
+  s.version          = '4.2.3.0'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 														Copyright 2016
 														Admost Mediation Limited.
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
  								}
   s.documentation_url = 'https://admost.github.io/amrios/'
   s.platform 			= :ios
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '11.0'
   s.swift_versions = ['5']
   s.vendored_frameworks = 'AMRAdapterBigo/Libs/AMRAdapterBigo.xcframework'
   s.pod_target_xcconfig = { 
@@ -26,5 +26,5 @@ Pod::Spec.new do |s|
     'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64 arm64'
   }
   s.dependency 'AMRSDK-Beta', '~> 1.5.40'
-  s.dependency 'BigoADS', '4.0.4'
+  s.dependency 'BigoADS', '4.2.3'
 end
