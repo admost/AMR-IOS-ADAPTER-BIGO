@@ -3,6 +3,10 @@
 Changelog for AMRAdapterBigo. 
 BigoAds [changelog](https://www.bigossp.com/guide/sdk/ios/version)
 
+## [4.6.0.1] - 2024-12-30
+### Added
+- Revenue Paid supported added.
+
 ## [4.6.0.0] - 2024-12-03
 ### Added
 - Offical release for BigoAds 4.6.0
