@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterBigo-Beta'
-  s.version          = '4.6.0.0'
+  s.version          = '4.6.0.1'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 														Copyright 2016
 														Admost Mediation Limited.
@@ -25,6 +25,6 @@ Pod::Spec.new do |s|
     'VALID_ARCHS[sdk=iphoneos*]' => 'armv7 arm64',
     'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64 arm64'
   }
-  s.dependency 'AMRSDK-Beta', '~> 1.5.40'
+  s.dependency 'AMRSDK-Beta', '~> 1.5.55'
   s.dependency 'BigoADS', '4.6.0'
 end
