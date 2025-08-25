@@ -3,6 +3,10 @@
 Changelog for AMRAdapterBigo. 
 BigoAds [changelog](https://www.bigossp.com/guide/sdk/ios/version)
 
+## [4.9.3.0] - 2025-08-25
+### Added
+- Offical release for BigoAds 4.9.3
+
 ## [4.7.0.0] - 2025-03-25
 ### Added
 - Offical release for BigoAds 4.7.0
