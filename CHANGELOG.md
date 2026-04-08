@@ -3,6 +3,11 @@
 Changelog for AMRAdapterBigo. 
 BigoAds [changelog](https://www.bigossp.com/guide/sdk/ios/version)
 
+## [5.1.2] - 2026-04-08
+### Added
+- Offical release for BigoAds 5.1.2
+- SPM support added.
+
 ## [4.9.3.0] - 2025-08-25
 ### Added
 - Offical release for BigoAds 4.9.3
