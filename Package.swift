@@ -31,13 +31,13 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AMRAdapterBigoLib",
-            url: "https://github.com/admost/AMR-IOS-ADAPTER-BIGO/releases/download/6.1.0/AMRAdapterBigo.xcframework.zip",
-            checksum: "93d056b1436b257ea805de4b6e243525e7a9764f330af6a0533868c74739ea8c"
+            url: "https://github.com/admost/AMR-IOS-ADAPTER-BIGO/releases/download/6.2.0/AMRAdapterBigo.xcframework.zip",
+            checksum: "bded02ab349a21059688fa4ceede698544959ad0914bc88d0445c869e2de8bb2"
         ),
         .binaryTarget(
             name: "BigoADS",
-            url: "https://github.com/admost/AMR-IOS-ADAPTER-BIGO/releases/download/6.1.0/BigoADS.xcframework.zip",
-            checksum: "8bd58821762023c8ca0f1b37bc9a8c683ddfa146324dc2fc2da8d2a077894ba8"
+            url: "https://github.com/admost/AMR-IOS-ADAPTER-BIGO/releases/download/6.2.0/BigoADS.xcframework.zip",
+            checksum: "657fcc2f9c32b59eeedd51461df108a4e8e71adf5cc8ec08335e6ac8b614e275"
         )
     ]
 )
